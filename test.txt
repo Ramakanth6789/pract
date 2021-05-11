@@ -2,8 +2,5 @@ Test file
 line one added
 
 updated new line today
-
-Changes to be merged in branch added.
-added to branch
-
+finally updated after commit!
 Thanks
